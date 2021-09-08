@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:App (1),org.eclipse.launchbar.core.descriptorType.default\:App,org.eclipse.launchbar.core.descriptorType.default\:GoogleSearchTest,org.eclipse.launchbar.core.descriptorType.default\:QualityStreamTutorial,org.eclipse.launchbar.core.descriptorType.default\:Tomcat v9.0 Server at localhost
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:App\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:App\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
